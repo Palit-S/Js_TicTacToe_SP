@@ -1,5 +1,5 @@
 # Js_TicTacToe_SP
-Tic Tac Toe JavaScript Project
+Tic Tac Toe JavaScript Project.
 
 # Tic Tac Toe
 Welcome to the Tic Tac Toe JavaScript project! This simple yet classic game serves as a fantastic platform for understanding and practicing advanced JavaScript concepts. In this README document, we'll delve into how this project help me to grasp these concepts and enhance my JavaScript skills.
